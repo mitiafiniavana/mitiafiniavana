@@ -37,9 +37,8 @@ Reach me at **mitiafiniavana.jose@gmail.com**
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.php.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/> </a>
+<a href="https://www.adobe.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/https://worldvectorlogo.com/logo/adobe-photoshop-cs6)" alt="photoshop" width="40" height="40"/> </a>
   
-  <a href="https://camo.githubusercontent.com/8ffe85b1568f67f58bb9988e94edcd0694f2fcc3703fc41752250349bc8ffba5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f61646f626570686f746f73686f702d2532333331413846462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d61646f626570686f746f73686f70266c6f676f436f6c6f723d7768697465"</a>
       
     
 </div>
