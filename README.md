@@ -3,7 +3,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Mionja/count.svg" />
+  <img src="https://profile-counter.glitch.me/mitiafiniavana/count.svg" />
 </p>
 
 
@@ -35,17 +35,17 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.php.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-<a href="https://www.adobe.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adobephotoshope/adobephotoshop-original.svg" alt="adobephotoshop" width="40" height="40"/> </a> 
+<a href="https://www.adobe.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adobe/photoshop-original.svg" alt="photoshop" width="40" height="40"/> </a> 
       
     
 </div>
 
-
+<div align="center">
 Me on github                                                                                                                                             | Most used languages |
 -------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
 ![mitiafiniavana's github stats](https://github-readme-stats.vercel.app/api?username=mitiafiniavana&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false) | ![mitiafiniavana's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitiafiniavana&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
-
+</div>
 
  
