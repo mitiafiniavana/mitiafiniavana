@@ -3,7 +3,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me.itsvg.in/api?id=mitiafiniavana" />  
+  <img src="https://profile-counter.glitch.me/api?id=mitiafiniavana/count.itsvg.in" />  
 </p>
 
 <h3 align="left">Chat with me:</h3>
