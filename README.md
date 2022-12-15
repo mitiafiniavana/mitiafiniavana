@@ -3,7 +3,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/mitiafiniavana/count.svg" />
+  <img src="https://visitcount.itsvg.in/api?id=mitiafiniavana" />
 </p>
 
 <h3 align="left">Chat with me:</h3>
@@ -17,7 +17,7 @@
     
 <div align="center"> 
 
-[![](https://visitcount.itsvg.in/api?id=mitiafiniavana&icon=0&color=red)](https://visitcount.itsvg.in)
+
 
 
 </div>
@@ -34,7 +34,7 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.php.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-<a href="https://www.adobe.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adobephotoshope/adobephotoshop-original.svg" alt="photoshop" width="40" height="40"/> </a> 
+<a href="https://www.adobe.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adobephotoshope/photoshop-original.svg" alt="photoshop" width="40" height="40"/> </a> 
       
     
 </div>
