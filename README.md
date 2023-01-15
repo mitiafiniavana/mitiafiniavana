@@ -47,11 +47,6 @@ Reach me at **mitiafiniavana.jose@gmail.com**
 </div>
 
 
-Me on github                                                                                                                                             | Most used languages |
--------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-![mitiafiniavana's github stats](https://github-readme-stats.vercel.app/api?username=mitiafiniavana&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false) | ![mitiafiniavana's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitiafiniavana&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-
 
 
  
