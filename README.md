@@ -51,7 +51,7 @@ Reach me at **mitiafiniavana.jose@gmail.com**
 
  
 
-![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitiafiniavana&theme=solarized-dark&theme=leafy&ring=047884&sideNums=06ACBD&dates=06ACBD&currStreakNum=06ACBD&currStreakLabel=06ACBD&background=ffffff00&hide_border=true&stroke=ffffff00&include_all_commits=false&count_private=false&layout=compact)
+![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitiafiniavana&theme=solarized-dark&leafy&ring=047884&sideNums=06ACBD&dates=06ACBD&currStreakNum=06ACBD&currStreakLabel=06ACBD&background=0d1117&hide_border=true&stroke=0d1117&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
