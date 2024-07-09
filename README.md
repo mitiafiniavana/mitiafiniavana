@@ -9,8 +9,6 @@
 <h2 align=center><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%teal&size=23&center=true&vCenter=true&lines=De+Ahoanaaa+?"></h2>
 
 
-<h3 align="left">Chat with me:</h3>
-<p align="left">
 
 Reach me at **mitiafiniavana.jose@gmail.com**
 
