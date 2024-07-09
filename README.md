@@ -11,8 +11,6 @@
 
 <h3 align="left">Chat with me:</h3>
 <p align="left">
-//<a href="https://web.facebook.com/mitia.grosminet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mitia finiavana" height="30" width="40" /></a>
-</p>//
 
 Reach me at **mitiafiniavana.jose@gmail.com**
 
